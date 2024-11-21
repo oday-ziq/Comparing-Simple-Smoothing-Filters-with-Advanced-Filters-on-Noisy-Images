@@ -1,0 +1,2 @@
+# Comparing-Simple-Smoothing-Filters-with-Advanced-Filters-on-Noisy-Images
+The aim of this assignment is to compare the performance of simple smoothing filters (Box filter, Gaussian filter, and Median filter) with advanced filters (e.g., adaptive filters) when applied to noisy images. You will evaluate them based on noise removal effectiveness, edge preservation, computational efficiency, and kernel size effects.
